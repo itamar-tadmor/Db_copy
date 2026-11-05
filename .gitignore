@@ -1,0 +1,4 @@
+# Run outputs can hold production schema, table and tablespace names
+*.log
+plan.sql
+restore_*.rman
